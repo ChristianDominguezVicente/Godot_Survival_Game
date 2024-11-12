@@ -1,0 +1,5 @@
+res://GameScene.tscn
+res://DayNightCycle.gd
+res://NeedUIBar.gd
+res://Need.gd
+res://PlayerNeeds.gd

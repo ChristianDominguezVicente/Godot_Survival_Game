@@ -1,0 +1,9 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1726395230
+GameScene.tscn::PackedScene::3817332911911640605::1726393431::0::1::::<><>::uid://vkmgyccrhiwb::::res://Models/Terrain.obj<>res://Player.gd
+icon.svg::CompressedTexture2D::3919780893746140984::1726225842::1726225866::1::::<><>::
+Player.gd::GDScript::-1::1726393429::0::1::::<>CharacterBody3D<>::
+::res://Models/::1726225916
+rocks.obj::Mesh::2711598466797554706::1726225915::1726225916::1::::<><>::
+Terrain.obj::Mesh::1495350076379790741::1726225915::1726225916::1::::<><>::
+treePine.obj::Mesh::5671315230495846697::1726225915::1726225916::1::::<><>::
